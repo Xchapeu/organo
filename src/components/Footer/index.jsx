@@ -13,7 +13,7 @@ export const Footer = () => {
                 <img src={igLogo} alt="Logo instagram"/>
             </div>
             <img className="logo" src={logo} alt="Logo organo"/>
-            <span>Desenvolvido por Rodrigo</span>
+            <span>Desenvolvido por Anderson Rodrigo</span>
         </footer>
     );
 }
